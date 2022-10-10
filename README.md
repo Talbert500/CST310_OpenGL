@@ -1,2 +1,0 @@
-# CST310_OpenGL
- 
